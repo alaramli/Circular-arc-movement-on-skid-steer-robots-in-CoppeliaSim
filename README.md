@@ -35,17 +35,17 @@ Steps to run the coding
 
 ![](Aspose.Words.e249d387-eb44-45c2-910e-600fc7872c67.002.png)
 
-1. The simulation point (x,y) will be store in  “middle1 “ as below
+5. The simulation point (x,y) will be store in  “middle1 “ as below
 
 ![](Aspose.Words.e249d387-eb44-45c2-910e-600fc7872c67.003.png)
 
-1. The simulation plot will be plotted as 
+6. The simulation plot will be plotted as 
 
-x = middle1(i,1)
+    x = middle1(i,1)
 
-y = middle1(i,2)
+    y = middle1(i,2)
 
-where i =1,2,3,…, 20
+    where i =1,2,3,…, 20
 
 ![](Aspose.Words.e249d387-eb44-45c2-910e-600fc7872c67.004.png)
 
